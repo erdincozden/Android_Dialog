@@ -12,7 +12,6 @@ public class FixedDatePickerDialog extends DatePickerDialog {
 
     @Override
     protected void onStop() {
-        // Do nothing since the super's implementation of this
-        // method is what causes the problem.
+
     }
 }
