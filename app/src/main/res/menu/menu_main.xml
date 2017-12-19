@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.erdinc.chptr10.MainActivity">
+    <item android:id="@+id/menu_show_prompt_dialog" android:title="Show Prompt Dialog"/>
+    <item android:id="@+id/menu_show_alert_dialog" android:title="Show Alert Dialog"/>
+    <item android:id="@+id/menu_show_help_dialog" android:title="Show Help Dialog"/>
+    <item android:id="@+id/menu_show_embedded_dialog" android:title="Show Embedded Dialog"/>
+    <item android:id="@+id/menu_show_date_dialog"  android:title="Show Date Picker Dialog"/>
+    <item android:id="@+id/menu_show_time_dialog" android:title="Show Time Picker Dialog"/>
+
+</menu>
